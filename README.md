@@ -1,0 +1,2 @@
+# HarvardX-CS50
+Hello, world! This is CS50 (aka CS50x through edX), Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. You are welcome to take CS50 at your own pace, starting whenever you'd like. So no worries if this is your first time here! Link for the classes is here: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
